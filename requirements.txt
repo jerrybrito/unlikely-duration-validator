@@ -1,0 +1,2 @@
+# Requires: forgotten-uncertainty
+# (Not available on PyPI)
